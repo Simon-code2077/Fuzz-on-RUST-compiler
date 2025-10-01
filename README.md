@@ -3,4 +3,5 @@ Fuzzing is an automated software testing technique that feeds programs with larg
 
 ## Paper on related works:
 LegoFuzz. url:https://arxiv.org/pdf/2508.18955
+
 Rustlantis. url:https://dl.acm.org/doi/pdf/10.1145/3689780
